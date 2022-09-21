@@ -18,7 +18,7 @@ and on the basis of different parameters it applies random forest distribution. 
 takes into account the acceleration, the gear, the brake and the steer values from 
 the dataset to make decision tree and apply Random Forest Distribution.
 
-## PSKL Files
+## PSKL Files:
 Running the Python Notebooks will generate pskl files. The client will use these files to drive and race the car. These files are the trained model in action.
 
 ## Conclusion:
