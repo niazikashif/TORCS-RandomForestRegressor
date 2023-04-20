@@ -6,8 +6,8 @@
 
 import pandas as pd
 import numpy as np
-# from google.colab import drive
-# drive.mount("/content/gdrive")
+
+
 dataframe=pd.read_csv('DataSet.csv')
 dataframe=dataframe.drop(['Opponents', 'Damage','Fuel','Focus','Track','Focus2','WheelSpinVel'], axis = 1)
 
